@@ -2,6 +2,4 @@
 
 kuch nyaa krke dekhte h
 
-# how to do do
-
-aaj kr hi liya
+gitiiiiii
